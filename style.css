@@ -1,0 +1,26 @@
+
+*{
+    box-sizing:border-box;  
+}
+
+
+.para1{
+    text-align: justify;
+    margin: 20px;
+}
+div{
+    width: 30%;
+    border: 2px solid burlywood;
+    border-radius: 5%;
+    margin: 2px 2px;
+    padding: 10px 10px;
+   
+}
+.head{
+    text-align: center;
+}
+.img-rain{
+margin: 10px 10px;
+border-radius: 6%;
+}
+
